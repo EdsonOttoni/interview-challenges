@@ -20,8 +20,11 @@ button {
   font-size: 1em;
   font-weight: 500;
   cursor: pointer;
-  margin: 12px;
   background-color: #dfe0e6;
+  position: relative;
+  top: 10px;
+  left: 40%;
+  margin:0 10px;
   z-index: 10;
 }
 
